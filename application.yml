@@ -1,0 +1,4 @@
+user:
+ role: Admin
+welcome:
+ message: Test Config POC Server !!
