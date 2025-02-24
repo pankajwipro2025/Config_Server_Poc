@@ -1,4 +1,2 @@
-user:
- role: Admin
-welcome:
- message: Test Config POC Server !!
+user.role=Admin
+welcome.message=Test Config POC Server !!
